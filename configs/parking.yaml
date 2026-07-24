@@ -1,0 +1,28 @@
+seed: 42
+dim: 2
+Niter: 2
+Ndiffuse: 150
+beta0: 1.0e-05
+betaT: 0.01
+R_col: 1.5
+N: 2
+x_state: 4
+T: 200
+Nsample: 5000
+Nsample_cent: 10000
+car_width: 3.0
+car_length: 5.0
+umax: 1.0
+steer_max: 0.25
+vmax: 5.0
+dt: 0.25
+
+temp_sample: 0.30629397557491755
+P: 2.1383804139186196e-06
+Q: 2.21997310912051e-08
+R: 640.9460398003231
+O: 189.88205552506574
+S1: 92.2841121351244
+S2: 51.0523161362492
+
+goal_tolerance: 2.5
