@@ -1,0 +1,32 @@
+seed: 42
+dim: 1
+Ndiffuse: 150
+Niter: 3
+beta0: 1.0e-05
+betaT: 0.01
+R_col: 1.5
+N: 4
+x_state: 4
+T: 85
+Nsample: 5000
+car_width: 1.25
+car_length: 1.75
+car_length2: 4.25
+car_length3: 5.5
+car_length4: 4.25
+umax: 1.0
+vmax: 5.0
+dt: 0.25
+
+buffer_length: 0.1
+temp_sample: 0.0065926450234988455
+P: 6.240095092611118e-05
+Q: 4.567439805212556e-06
+R1: 50
+R2: 37.35467962340848
+R3: 28.194774694926565
+R4: 31.836362458193292
+O: 721.326766313556
+S: 0.00013284381660472067
+
+goal_tolerance: 1.5
